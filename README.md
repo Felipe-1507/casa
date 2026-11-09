@@ -1,6 +1,6 @@
 # Casa BP — visualizador 3D
 
-Site estático com três abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida**. A abertura inicial mostra a proposta escolhida, revisão 02 de 09/11/2026: suíte frontal com closet linear no canto e porta ripada de correr, copa integrada à sala e cozinha/lavanderia fechadas nos fundos. Na suíte, use os controles **Porta fechada** e **Porta aberta** para comparar a privacidade e a passagem direta ao dormitório.
+Site estático com três abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida**. A abertura inicial mostra a proposta escolhida, revisão 03 de 09/11/2026: suíte ampliada 4,00 m para a frente, com dormitório de 8,94 m², closet separado de 3,57 m² e porta ripada de correr, copa integrada à sala e cozinha/lavanderia fechadas nos fundos. A parte nova tem 2,54 m de largura interna; o corredor fica com 1,60 m ao lado dessa parte e mantém 2,00 m junto à casa atual. Recuo frontal estimado de 2,00 m: confirmar se o avanço é permitido. Na suíte, use os controles **Porta fechada** e **Porta aberta** para comparar a privacidade e a passagem direta ao dormitório.
 
 ## Publicar no GitHub Pages
 
@@ -26,7 +26,7 @@ Abra o endereço HTTPS no Chrome ou Safari. Use as abas superiores para alternar
 
 | Caminho | Conteúdo |
 | --- | --- |
-| `index.html` | Entrada do site, com as duas abas |
+| `index.html` | Entrada do site, com as três abas |
 | `projeto-3d/` | Visualizador da casa atual, memorial, imagens e GLB/OBJ |
 | `melhorias-futuras/` | Comparação A–D, relatórios, imagens e modelos GLB |
 | `proposta-escolhida/` | Modelo escolhido e atualizado, mobiliado, com vistas e memorial |
