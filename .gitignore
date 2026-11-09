@@ -1,0 +1,13 @@
+# Arquivos locais que não devem entrar no site
+node_modules/
+.env
+.env.*
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+/ARQUITETURA.pdf
+/ELÉTRICA.pdf
+/HIDRÁULICA.pdf
+/acesso-celular/
+*.cmd

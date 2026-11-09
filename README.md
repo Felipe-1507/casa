@@ -1,6 +1,6 @@
 # Casa BP — visualizador 3D
 
-Site estático com duas abas: **Casa atual preservada** e **Melhorias futuras**, incluindo as alternativas A, B, C e D.
+Site estático com três abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida**. A abertura inicial mostra a proposta escolhida, revisão 01 de 09/11/2026: suíte frontal com closet aberto, copa integrada à sala e cozinha/lavanderia fechadas nos fundos.
 
 ## Publicar no GitHub Pages
 
@@ -29,6 +29,7 @@ Abra o endereço HTTPS no Chrome ou Safari. Use as abas superiores para alternar
 | `index.html` | Entrada do site, com as duas abas |
 | `projeto-3d/` | Visualizador da casa atual, memorial, imagens e GLB/OBJ |
 | `melhorias-futuras/` | Comparação A–D, relatórios, imagens e modelos GLB |
+| `proposta-escolhida/` | Modelo escolhido e atualizado, mobiliado, com vistas e memorial |
 | `.nojekyll` | Indica publicação estática sem processamento Jekyll |
 | `THIRD_PARTY_NOTICES.txt` | Licença da biblioteca de visualização |
 
