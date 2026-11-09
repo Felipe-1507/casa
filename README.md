@@ -1,6 +1,6 @@
 # Casa BP — visualizador 3D
 
-Site estático com três abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida**. A abertura inicial mostra a proposta escolhida, revisão 01 de 09/11/2026: suíte frontal com closet aberto, copa integrada à sala e cozinha/lavanderia fechadas nos fundos.
+Site estático com três abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida**. A abertura inicial mostra a proposta escolhida, revisão 02 de 09/11/2026: suíte frontal com closet linear no canto e porta ripada de correr, copa integrada à sala e cozinha/lavanderia fechadas nos fundos. Na suíte, use os controles **Porta fechada** e **Porta aberta** para comparar a privacidade e a passagem direta ao dormitório.
 
 ## Publicar no GitHub Pages
 
