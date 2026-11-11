@@ -1,4 +1,13 @@
-# Casa BP · teto contínuo da copa à cozinha G07
+# Casa BP · porta ampla da lavanderia G08
+
+A janela pequena e a porta lateral da lavanderia foram substituídas por uma porta de vidro de correr de 1,90 × 2,30 m, com caixilho grafite. Uma folha fixa e outra móvel se sobrepõem no lado da antiga janela, deixando aproximadamente 0,89 m de passagem livre no lado da antiga porta. A largura nominal do conjunto não é a largura útil de passagem.
+
+Use **Porta · vista externa**, **Porta · de frente**, **Abrir porta de vidro** e **Fechar porta de vidro**. O tour abre a porta para circular e restaura a posição escolhida ao sair. Lavadora, tanque, armários, varal, bancada e níveis dos pisos foram mantidos. A janela panorâmica da cozinha e o forro contínuo G07 permanecem.
+
+Memorial: **proposta-garagem/MEMORIAL-G08.html**. Modelo: **proposta-garagem/casa-bp-porta-lavanderia-g08.glb**. O alargamento do vão, a verga, seus apoios, o vidro de segurança, caixilho, ferragens, soleira e drenagem dependem de conferência e detalhamento. O render não dimensiona a estrutura nem comprova acessibilidade.
+
+## Base preservada G07
+
 
 Forro contínuo da sala até o fim da cozinha, na cota ilustrativa de 2,65 m acima da referência de piso. O acabamento esconde por baixo o encontro das duas coberturas, sem mudar a laje, a inclinação do telhado ou as calhas. Pisos e distribuição foram preservados. Os plafons e cabos do pendente foram ajustados, assim como o difusor da opção de tubo solar existente.
 
