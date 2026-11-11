@@ -1,4 +1,15 @@
-# Casa BP · copa para seis e cozinha ampliada G04
+# Casa BP · escritório compartilhado e café G05
+
+O segundo quarto recebeu duas estações: mesa de PC de 2,26 × 0,65 m na parede do fundo e mesa de estudos de 1,22 × 0,53 m na lateral direita. As duas camas e o armário antigo foram retirados. Madeira escura, gaveteiros pretos, duas cadeiras mesh, tapete e prateleiras organizam o ambiente de 2,54 × 2,90 m.
+
+O setup inclui PC aquário com seis ventoinhas vermelhas, monitor horizontal de 27 polegadas e vertical de 21 à esquerda, cada um em braço com pistão a gás, periféricos sem fio e microfone articulado. A outra mesa tem notebook e materiais de estudo. Colecionáveis estilizados e quatro artes autorais inspiradas em universos geek compõem a decoração. As formas são ilustrativas.
+
+Foram incluídos splits nos dois quartos, a porta do banheiro privativo está aberta e a geladeira foi detalhada sem mudar sua posição ao fundo da cozinha. O aparador ao lado do sofá recebeu uma cafeteira espresso com xícaras e potes. A distribuição G04 de copa e cozinha e toda a frente permanecem preservadas.
+
+Use **Escritório**, **Ver setup de perto** ou **Cantinho do café**. O tour foi atualizado, com 16 paradas e controles para computador e celular. Memorial e modelo: **proposta-garagem/MEMORIAL-G05.html** e **proposta-garagem/casa-bp-escritorio-cafe-g05.glb**. Medidas nominais; conferir móveis, ergonomia, elétrica e climatização antes de executar.
+
+## Base preservada G04
+
 
 A copa recebeu mesa de 1,65 × 0,70 m e seis cadeiras individuais, sem banco. O pequeno buffet foi retirado e a mesa avançou 1,65 m para a frente da casa. As bancadas da cozinha avançaram 1,20 m, dois pisos de 60 cm, mantendo o corredor central de 1,20 m. A zona funcional da cozinha passou a cerca de 9,94 m², por redistribuição da área existente, sem ampliar a construção. O trecho ganhou gavetas, cafeteira e micro-ondas em nicho; a janela para o quintal foi preservada.
 
