@@ -1,63 +1,23 @@
-# Casa BP — visualizador 3D
+# Casa BP · frente unificada e tour G03
 
-Site estático com cinco abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida** e **Garagem fechada** e **BYD Seal 3D**. A abertura inicial mostra a proposta escolhida, revisão 05 de 10/11/2026: suíte ampliada 4,00 m para a frente, com dormitório de 8,94 m², closet separado de 3,57 m² e porta ripada de correr, copa e cozinha integradas por um vão de 2,40 m, mesa 80 cm mais ao fundo e janela de correr de 2,40 × 1,20 m para o quintal. A parte nova tem 2,54 m de largura interna; o corredor fica com 1,60 m ao lado dessa parte e mantém 2,00 m junto à casa atual. Recuo frontal estimado de 2,00 m: confirmar se o avanço é permitido. A opção de tubo solar na copa é um estudo de luz natural direta, sujeito à avaliação da laje; não é cálculo de iluminação. O carro da vaga é uma reconstrução visual da Chevrolet Tracker Premier 2026, com escala documentada e detalhes aproximados. Use **Tracker na vaga** ou **Tracker em detalhe**; o modelo independente permite mudar cores e baixar o GLB do carro. Na suíte, use os controles **Porta fechada** e **Porta aberta** para comparar a privacidade e a passagem direta ao dormitório.
+O projeto atual abre com garagem e entrada cobertas por laje contínua, portão de 2,70 m ao lado da porta social de 1,00 m, ambos com altura nominal de 2,30 m. O hall dá acesso livre à garagem e ao corredor lateral, sem portas intermediárias. O vidro fixo vedado na cobertura substitui a antiga faixa aberta à chuva.
 
-## Alternativa de garagem G01 · 11/11/2026
+## Navegar
 
-A proposta escolhida continua preservada como abertura inicial. A quarta aba **Garagem fechada** mostra uma alternativa separada com vaga de 2,80 × 5,07 m, portão de enrolar animado e controles para comparar cobertura leve ou estudo em laje, alinhados à suíte. A faixa descoberta diante da sala tem 1,56 m²; a varanda existente de 1,44 m² continua coberta. O caminho passa pela garagem, com cerca de 57 cm junto ao espelho direito da Tracker e desnível de 14 cm até o pátio; não é uma passagem acessível. Não foi testada a abertura das portas do carro nem a manobra. O fechamento pode reduzir a luz da sala.
+Use **Entrar na casa · tour a pé** para a visita guiada. No computador, WASD ou setas movem e arrastar gira a vista; no celular, use as setas na tela e arraste para olhar. É possível pausar e explorar ou continuar o percurso. Esc ou **Sair do tour** restaura a vista anterior.
 
-Use o endereço com **#garagem** para entrar diretamente nessa aba. A pasta **proposta-garagem/** contém o visualizador, memorial, vistas e dois GLBs: cobertura leve e laje em estudo. Estrutura, fundações, encontro com a ampliação, ventilação, drenagem e permissão para fechar o recuo frontal precisam de projeto e verificação local. A cobertura ilustrativa do quarto não comprova capacidade de apoio para a garagem.
+O endereço com **#tour** inicia a visita. **#garagem** abre o projeto atual. As abas **Casa atual**, **Estudos A–D** e **Proposta anterior** preservam as versões anteriores. O carro permanece na garagem como referência de escala; a aba e os botões de visualização independente do carro foram removidos da navegação principal.
+
+## Medidas e limites
+
+Vaga plana de 2,80 × 5,21 m. O acesso elevado antes da varanda fica além dessa medida, com degrau de 14 cm. O Seal deixa cerca de 20,5 cm em cada ponta da vaga plana e 52,5 cm junto ao espelho direito. Encaixe estático; manobra, portas e porta-malas não foram validados. O caminho junto ao carro continua estreito. O tour usa um corpo simplificado de 0,40 m de largura, não valida acessibilidade.
+
+Consulte **proposta-garagem/MEMORIAL-G03.html** para dimensões, cobertura, iluminação e pendências técnicas. A estrutura da laje, vedação, drenagem e ventilação da casa precisam de projeto; o render não mede luz real. O GLB atual está em **proposta-garagem/casa-bp-frente-unificada-g03.glb**. PDFs e GLBs históricos foram mantidos.
 
 ## Publicar no GitHub Pages
 
-1. Crie um repositório no GitHub, por exemplo `casa-3d`.
-2. Envie **o conteúdo desta pasta**, mantendo as subpastas. O arquivo `index.html` precisa aparecer na raiz do repositório, junto deste README. Não envie apenas o ZIP nem deixe tudo dentro de uma pasta adicional chamada `github-pages`.
-3. Na aba **Code**, confira se os arquivos estão na branch `main`.
-4. Abra **Settings → Pages → Build and deployment**.
-5. Em **Source**, escolha **Deploy from a branch**.
-6. Selecione **main** e **/(root)**; clique em **Save**.
-7. Quando a publicação terminar, abra **Visit site** na própria tela do Pages. Se disponível, mantenha **Enforce HTTPS** ativado.
+Envie o conteúdo desta pasta para a raiz da branch main, mantendo as subpastas e o CNAME existente. Em Settings → Pages, selecione Deploy from a branch, main e /(root). Não é necessário instalar Node.js ou executar build no GitHub. Preserve .nojekyll e THIRD_PARTY_NOTICES.txt. Os PDFs originais e as fontes de trabalho não entram no pacote público.
 
-O endereço costuma seguir este formato: `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`.
+## Créditos
 
-Não é necessário instalar Node.js, executar build ou configurar servidor no GitHub. O computador do proprietário pode ficar desligado após a publicação. Todas as bibliotecas necessárias ao visualizador já estão incluídas no HTML.
-
-No plano GitHub Free, use um repositório público. O conteúdo publicado no Pages é acessível pela internet; este pacote não inclui autenticação.
-
-## Usar no celular
-
-Abra o endereço HTTPS no Chrome ou Safari. Use as abas superiores para alternar entre a casa atual e as melhorias. Toque em **Controles** dentro do visualizador para selecionar as alternativas, cobertura, corte e demais opções. Arraste para girar e use o gesto de pinça para aproximar.
-
-## Arquivos
-
-| Caminho | Conteúdo |
-| --- | --- |
-| `index.html` | Entrada do site, com as cinco abas |
-| `projeto-3d/` | Visualizador da casa atual, memorial, imagens e GLB/OBJ |
-| `melhorias-futuras/` | Comparação A–D, relatórios, imagens e modelos GLB |
-| `proposta-escolhida/` | Modelo escolhido e atualizado, mobiliado, com vistas e memorial |
-| `.nojekyll` | Indica publicação estática sem processamento Jekyll |
-| `THIRD_PARTY_NOTICES.txt` | Licença da biblioteca de visualização |
-
-Os PDFs originais de arquitetura, elétrica e hidráulica, os servidores locais e a pasta node_modules não fazem parte deste pacote. Os relatórios PDF incluídos são os memoriais gerados para apresentação. A geometria da casa atual foi mantida; apenas o acesso ao PDF original foi removido da cópia para publicação.
-
-Os modelos são estudos arquitetônicos. Dimensões estimadas, desnível dos fundos e intervenções estruturais continuam sujeitos às conferências descritas nos memoriais. As alternativas não são projetos de execução.
-
-## Atualizar futuramente
-
-Substitua os arquivos publicados pelos de uma nova exportação e faça um novo commit na main. O Pages volta a publicar a branch selecionada. As fontes editáveis e o script de empacotamento foram mantidos na pasta de trabalho original, fora deste pacote estático.
-
-## Documentação oficial
-
-- [Configurar a origem de publicação](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-- [Criar um site do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-- [Usar HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)
-
-
-## BYD Seal detalhado · S01
-
-A aba **BYD Seal 3D** abre o carro independente; no endereço, use **#seal**. Em **Garagem fechada**, escolha **BYD Seal** para comparar com a Tracker. O link **?carro=seal#garagem** seleciona o Seal diretamente. A casa e as dimensões da garagem são preservadas.
-
-Malha “2024 BYD Seal”, de Ddiaz Design, adaptada sob **CC BY-NC-SA 4.0**, com 136.565 triângulos e interior. Dimensões nominais calibradas: 4,800 × 1,875 × 1,460 m, entre-eixos de 2,920 m; 2,150 m com espelhos como referência oficial europeia. Formas e detalhes não são CAD oficial. Cores e materiais são de apresentação. Consulte **veiculos/byd-seal/CREDITOS-E-LICENCA.html** para fontes, licença e alterações.
-
-A garagem mede 5,07 m no comprimento: o Seal deixa somente 27 cm de folga total, cerca de 13,5 cm em cada ponta. Não foi comprovada a manobra nem a abertura de portas e porta-malas. Os GLBs históricos da casa e da garagem com Tracker continuam preservados. O botão de exportação do visualizador da garagem usa o carro selecionado, com licença e créditos incluídos nos metadados do Seal.
+Malha do carro “2024 BYD Seal”, Ddiaz Design, adaptada sob CC BY-NC-SA 4.0, para este estudo pessoal. Créditos, alterações e fontes de medidas em **veiculos/byd-seal/CREDITOS-E-LICENCA.html**. O modelo do carro é artístico, calibrado às dimensões nominais; não é CAD oficial. Bibliotecas e avisos em THIRD_PARTY_NOTICES.txt.
