@@ -1,6 +1,6 @@
 # Casa BP — visualizador 3D
 
-Site estático com quatro abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida** e **Garagem fechada**. A abertura inicial mostra a proposta escolhida, revisão 05 de 10/11/2026: suíte ampliada 4,00 m para a frente, com dormitório de 8,94 m², closet separado de 3,57 m² e porta ripada de correr, copa e cozinha integradas por um vão de 2,40 m, mesa 80 cm mais ao fundo e janela de correr de 2,40 × 1,20 m para o quintal. A parte nova tem 2,54 m de largura interna; o corredor fica com 1,60 m ao lado dessa parte e mantém 2,00 m junto à casa atual. Recuo frontal estimado de 2,00 m: confirmar se o avanço é permitido. A opção de tubo solar na copa é um estudo de luz natural direta, sujeito à avaliação da laje; não é cálculo de iluminação. O carro da vaga é uma reconstrução visual da Chevrolet Tracker Premier 2026, com escala documentada e detalhes aproximados. Use **Tracker na vaga** ou **Tracker em detalhe**; o modelo independente permite mudar cores e baixar o GLB do carro. Na suíte, use os controles **Porta fechada** e **Porta aberta** para comparar a privacidade e a passagem direta ao dormitório.
+Site estático com cinco abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida** e **Garagem fechada** e **BYD Seal 3D**. A abertura inicial mostra a proposta escolhida, revisão 05 de 10/11/2026: suíte ampliada 4,00 m para a frente, com dormitório de 8,94 m², closet separado de 3,57 m² e porta ripada de correr, copa e cozinha integradas por um vão de 2,40 m, mesa 80 cm mais ao fundo e janela de correr de 2,40 × 1,20 m para o quintal. A parte nova tem 2,54 m de largura interna; o corredor fica com 1,60 m ao lado dessa parte e mantém 2,00 m junto à casa atual. Recuo frontal estimado de 2,00 m: confirmar se o avanço é permitido. A opção de tubo solar na copa é um estudo de luz natural direta, sujeito à avaliação da laje; não é cálculo de iluminação. O carro da vaga é uma reconstrução visual da Chevrolet Tracker Premier 2026, com escala documentada e detalhes aproximados. Use **Tracker na vaga** ou **Tracker em detalhe**; o modelo independente permite mudar cores e baixar o GLB do carro. Na suíte, use os controles **Porta fechada** e **Porta aberta** para comparar a privacidade e a passagem direta ao dormitório.
 
 ## Alternativa de garagem G01 · 11/11/2026
 
@@ -32,7 +32,7 @@ Abra o endereço HTTPS no Chrome ou Safari. Use as abas superiores para alternar
 
 | Caminho | Conteúdo |
 | --- | --- |
-| `index.html` | Entrada do site, com as quatro abas |
+| `index.html` | Entrada do site, com as cinco abas |
 | `projeto-3d/` | Visualizador da casa atual, memorial, imagens e GLB/OBJ |
 | `melhorias-futuras/` | Comparação A–D, relatórios, imagens e modelos GLB |
 | `proposta-escolhida/` | Modelo escolhido e atualizado, mobiliado, com vistas e memorial |
@@ -52,3 +52,12 @@ Substitua os arquivos publicados pelos de uma nova exportação e faça um novo 
 - [Configurar a origem de publicação](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
 - [Criar um site do GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 - [Usar HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)
+
+
+## BYD Seal detalhado · S01
+
+A aba **BYD Seal 3D** abre o carro independente; no endereço, use **#seal**. Em **Garagem fechada**, escolha **BYD Seal** para comparar com a Tracker. O link **?carro=seal#garagem** seleciona o Seal diretamente. A casa e as dimensões da garagem são preservadas.
+
+Malha “2024 BYD Seal”, de Ddiaz Design, adaptada sob **CC BY-NC-SA 4.0**, com 136.565 triângulos e interior. Dimensões nominais calibradas: 4,800 × 1,875 × 1,460 m, entre-eixos de 2,920 m; 2,150 m com espelhos como referência oficial europeia. Formas e detalhes não são CAD oficial. Cores e materiais são de apresentação. Consulte **veiculos/byd-seal/CREDITOS-E-LICENCA.html** para fontes, licença e alterações.
+
+A garagem mede 5,07 m no comprimento: o Seal deixa somente 27 cm de folga total, cerca de 13,5 cm em cada ponta. Não foi comprovada a manobra nem a abertura de portas e porta-malas. Os GLBs históricos da casa e da garagem com Tracker continuam preservados. O botão de exportação do visualizador da garagem usa o carro selecionado, com licença e créditos incluídos nos metadados do Seal.
