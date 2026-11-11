@@ -1,6 +1,12 @@
 # Casa BP — visualizador 3D
 
-Site estático com três abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida**. A abertura inicial mostra a proposta escolhida, revisão 05 de 10/11/2026: suíte ampliada 4,00 m para a frente, com dormitório de 8,94 m², closet separado de 3,57 m² e porta ripada de correr, copa e cozinha integradas por um vão de 2,40 m, mesa 80 cm mais ao fundo e janela de correr de 2,40 × 1,20 m para o quintal. A parte nova tem 2,54 m de largura interna; o corredor fica com 1,60 m ao lado dessa parte e mantém 2,00 m junto à casa atual. Recuo frontal estimado de 2,00 m: confirmar se o avanço é permitido. A opção de tubo solar na copa é um estudo de luz natural direta, sujeito à avaliação da laje; não é cálculo de iluminação. O carro da vaga é uma reconstrução visual da Chevrolet Tracker Premier 2026, com escala documentada e detalhes aproximados. Use **Tracker na vaga** ou **Tracker em detalhe**; o modelo independente permite mudar cores e baixar o GLB do carro. Na suíte, use os controles **Porta fechada** e **Porta aberta** para comparar a privacidade e a passagem direta ao dormitório.
+Site estático com quatro abas: **Casa atual**, **Estudos A–D** e **Proposta escolhida** e **Garagem fechada**. A abertura inicial mostra a proposta escolhida, revisão 05 de 10/11/2026: suíte ampliada 4,00 m para a frente, com dormitório de 8,94 m², closet separado de 3,57 m² e porta ripada de correr, copa e cozinha integradas por um vão de 2,40 m, mesa 80 cm mais ao fundo e janela de correr de 2,40 × 1,20 m para o quintal. A parte nova tem 2,54 m de largura interna; o corredor fica com 1,60 m ao lado dessa parte e mantém 2,00 m junto à casa atual. Recuo frontal estimado de 2,00 m: confirmar se o avanço é permitido. A opção de tubo solar na copa é um estudo de luz natural direta, sujeito à avaliação da laje; não é cálculo de iluminação. O carro da vaga é uma reconstrução visual da Chevrolet Tracker Premier 2026, com escala documentada e detalhes aproximados. Use **Tracker na vaga** ou **Tracker em detalhe**; o modelo independente permite mudar cores e baixar o GLB do carro. Na suíte, use os controles **Porta fechada** e **Porta aberta** para comparar a privacidade e a passagem direta ao dormitório.
+
+## Alternativa de garagem G01 · 11/11/2026
+
+A proposta escolhida continua preservada como abertura inicial. A quarta aba **Garagem fechada** mostra uma alternativa separada com vaga de 2,80 × 5,07 m, portão de enrolar animado e controles para comparar cobertura leve ou estudo em laje, alinhados à suíte. A faixa descoberta diante da sala tem 1,56 m²; a varanda existente de 1,44 m² continua coberta. O caminho passa pela garagem, com cerca de 57 cm junto ao espelho direito da Tracker e desnível de 14 cm até o pátio; não é uma passagem acessível. Não foi testada a abertura das portas do carro nem a manobra. O fechamento pode reduzir a luz da sala.
+
+Use o endereço com **#garagem** para entrar diretamente nessa aba. A pasta **proposta-garagem/** contém o visualizador, memorial, vistas e dois GLBs: cobertura leve e laje em estudo. Estrutura, fundações, encontro com a ampliação, ventilação, drenagem e permissão para fechar o recuo frontal precisam de projeto e verificação local. A cobertura ilustrativa do quarto não comprova capacidade de apoio para a garagem.
 
 ## Publicar no GitHub Pages
 
@@ -26,7 +32,7 @@ Abra o endereço HTTPS no Chrome ou Safari. Use as abas superiores para alternar
 
 | Caminho | Conteúdo |
 | --- | --- |
-| `index.html` | Entrada do site, com as três abas |
+| `index.html` | Entrada do site, com as quatro abas |
 | `projeto-3d/` | Visualizador da casa atual, memorial, imagens e GLB/OBJ |
 | `melhorias-futuras/` | Comparação A–D, relatórios, imagens e modelos GLB |
 | `proposta-escolhida/` | Modelo escolhido e atualizado, mobiliado, com vistas e memorial |
