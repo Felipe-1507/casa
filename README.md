@@ -1,4 +1,13 @@
-# Casa BP · escritório compartilhado e café G05
+# Casa BP · banheiro da suíte corrigido G06
+
+A divisória branca indevida era composta por quatro portas de um armário antigo que sobraram dentro do box. Esses elementos foram removidos. O banheiro mantém 1,40 × 1,90 m (2,66 m²), com paredes e closet preservados; não houve ampliação de área.
+
+Louças e acessórios foram refeitos em escala: vaso de aproximadamente 66 × 38 cm, gabinete suspenso de 50 × 30 cm, cuba vazada, torneira, espelho e box transparente de 1,40 × 0,85 m com cerca de 63 cm de abertura à esquerda. O modelo continua sendo um estudo de banheiro compacto, sujeito à conferência local.
+
+Use **Banheiro da suíte** e **Banheiro · vista de cima**. O tour mantém 16 paradas e passa pelo interior desse banheiro; o acesso ao chuveiro foi conferido com o corpo simplificado de 40 cm, sem validar acessibilidade. Downloads: **proposta-garagem/MEMORIAL-G06.html** e **proposta-garagem/casa-bp-banheiro-suite-g06.glb**.
+
+## Base preservada G05
+
 
 O segundo quarto recebeu duas estações: mesa de PC de 2,26 × 0,65 m na parede do fundo e mesa de estudos de 1,22 × 0,53 m na lateral direita. As duas camas e o armário antigo foram retirados. Madeira escura, gaveteiros pretos, duas cadeiras mesh, tapete e prateleiras organizam o ambiente de 2,54 × 2,90 m.
 
