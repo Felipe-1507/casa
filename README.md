@@ -1,6 +1,10 @@
-# Casa BP · frente unificada e tour G03
+# Casa BP · copa para seis e cozinha ampliada G04
 
-O projeto atual abre com garagem e entrada cobertas por laje contínua, portão de 2,70 m ao lado da porta social de 1,00 m, ambos com altura nominal de 2,30 m. O hall dá acesso livre à garagem e ao corredor lateral, sem portas intermediárias. O vidro fixo vedado na cobertura substitui a antiga faixa aberta à chuva.
+A copa recebeu mesa de 1,65 × 0,70 m e seis cadeiras individuais, sem banco. O pequeno buffet foi retirado e a mesa avançou 1,65 m para a frente da casa. As bancadas da cozinha avançaram 1,20 m, dois pisos de 60 cm, mantendo o corredor central de 1,20 m. A zona funcional da cozinha passou a cerca de 9,94 m², por redistribuição da área existente, sem ampliar a construção. O trecho ganhou gavetas, cafeteira e micro-ondas em nicho; a janela para o quintal foi preservada.
+
+A copa é compacta: há cerca de 60 cm de passagem ao lado das cadeiras quando estão junto à mesa. Afastá-las reduz essa folga. Conferir os móveis reais antes de comprar. O tour foi atualizado. Consulte **proposta-garagem/MEMORIAL-G04.html** e **proposta-garagem/casa-bp-copa-seis-g04.glb**.
+
+A frente aprovada foi preservada, com garagem e entrada cobertas por laje contínua, portão de 2,70 m ao lado da porta social de 1,00 m, ambos com altura nominal de 2,30 m. O hall dá acesso livre à garagem e ao corredor lateral, sem portas intermediárias. O vidro fixo vedado na cobertura substitui a antiga faixa aberta à chuva.
 
 ## Navegar
 
@@ -12,7 +16,7 @@ O endereço com **#tour** inicia a visita. **#garagem** abre o projeto atual. As
 
 Vaga plana de 2,80 × 5,21 m. O acesso elevado antes da varanda fica além dessa medida, com degrau de 14 cm. O Seal deixa cerca de 20,5 cm em cada ponta da vaga plana e 52,5 cm junto ao espelho direito. Encaixe estático; manobra, portas e porta-malas não foram validados. O caminho junto ao carro continua estreito. O tour usa um corpo simplificado de 0,40 m de largura, não valida acessibilidade.
 
-Consulte **proposta-garagem/MEMORIAL-G03.html** para dimensões, cobertura, iluminação e pendências técnicas. A estrutura da laje, vedação, drenagem e ventilação da casa precisam de projeto; o render não mede luz real. O GLB atual está em **proposta-garagem/casa-bp-frente-unificada-g03.glb**. PDFs e GLBs históricos foram mantidos.
+Consulte **proposta-garagem/MEMORIAL-G03.html** para dimensões, cobertura, iluminação e pendências técnicas. A estrutura da laje, vedação, drenagem e ventilação da casa precisam de projeto; o render não mede luz real. O GLB histórico G03 está em **proposta-garagem/casa-bp-frente-unificada-g03.glb**. PDFs e GLBs históricos foram mantidos.
 
 ## Publicar no GitHub Pages
 
