@@ -1,4 +1,13 @@
-# Casa BP · banheiro da suíte corrigido G06
+# Casa BP · teto contínuo da copa à cozinha G07
+
+Forro contínuo da sala até o fim da cozinha, na cota ilustrativa de 2,65 m acima da referência de piso. O acabamento esconde por baixo o encontro das duas coberturas, sem mudar a laje, a inclinação do telhado ou as calhas. Pisos e distribuição foram preservados. Os plafons e cabos do pendente foram ajustados, assim como o difusor da opção de tubo solar existente.
+
+Use **Teto contínuo · cozinha** e **Olhar para a copa**. O tour mantém 16 paradas; arraste a imagem para olhar para cima. Memorial: **proposta-garagem/MEMORIAL-G07.html**. Modelo: **proposta-garagem/casa-bp-teto-continuo-g07.glb**.
+
+A proposta apresenta o acabamento desejado. Conferir vigas, laje, fixações, instalações e altura útil antes de definir o nível final; o estudo não dimensiona o sistema de forro nem autoriza cortes na estrutura.
+
+## Base preservada G06
+
 
 A divisória branca indevida era composta por quatro portas de um armário antigo que sobraram dentro do box. Esses elementos foram removidos. O banheiro mantém 1,40 × 1,90 m (2,66 m²), com paredes e closet preservados; não houve ampliação de área.
 
